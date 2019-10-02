@@ -1,0 +1,68 @@
+1.  Definir un equipo de trabajo y roles.
+	Sebastian Duran /presenta el equipo y a grandes rasgos el trabajo y como elegimos las características del juego
+	Nicolas Otarola / dibujo de PH-163-Sofronov, robots /explica las imágenes y ambientación, clases de robots
+	Jonathan Gonzalez /habla sobre la tematica del juego (la historia)
+	Diego Mora / habla sobre el motor gráfico / GitHub
+	
+
+2.  Proponer un proyecto de videojuego o aplicación y definir los siguientes aspectos:
+a)  Nombre del grupo (estudio).
+	IUGraphics	
+
+b)  Nombre del videojuego o aplicación.
+	Rovolution
+
+c)  Historia del juego o temática.
+	Apocalipsis robótico (tipo terminator), en que será necesario tener que buscar elementos para
+	evitar que los robots los encuentren primero, en caso contrario sería fin de la raza humana.
+	Robolution
+
+
+Ambientación: post-apocalíptica
+Año 2090 , Google crea la primera IA con conciencia propia Anubis III, en base a biotecnología,
+la cual es controlada por Estados Unidos, a cargo de los mercados, y por primera vez los procesos
+políticos fueron controlados por algoritmos, impulsados por la neurociencia.
+China por su parte logra crear un prototipo más avanzado el año 2098,Hibatta .
+Estas 2 ultra-conciencias controlan y dividen el planeta en 2 superpotencias, en cada hogar,
+en cada esquina un robot.
+
+El año 2102 se descubre que Hibatta y Anubis crean un propio lenguaje,incomprensible por los 
+científicos e ingenieros que los controlaban,creando un solo gran sistema interconectado.
+Aquí comienza todo...
+
+Año 2213 las personas , que quedan aún, viven encerradas en el "panal". Una gran caja dividida en
+varios pisos, cada sección dedicada a trabajar en una función distinta, con el fin de mantener a 
+lo que en su día fue Anubis, hoy corrompida y hambrienta de conocimiento.
+
+
+Nuestro personaje principal es PH-163 alias Sofronov un mecánico Ruso, quien un día revisando 
+una falla en la corteza del panal  ve la sombra de un  volar por sobre él, en este momento se 
+da cuenta que los humanos vivían engañados ,el robot que lo acompañaba intenta asesinarlo 
+pero falla , PH-163 logra destruirlo,  ya cansado de la esclavitud decide liberar a los humanos 
+que quedan.(Aquí justificamos el que los robots lo quieran asesinar) No tiene nada que perder ,
+morir por buscar una vida libre o  morir en la esclavitud.
+
+d)  Género:  acción, puzzle, estrategia, RPG, carreras, etc.
+	Acción/aventura
+
+e)  Tipo de camara:  primera persona, tercera persona, top down, etc.s
+	primera persona
+
+f)  Tipo de gameplay:  Indicar como ser ́a el uso de teclado/mouse u otro.
+	teclado/mouse
+
+g)  Implementación:  manual o con un video game engine.
+	Video game engine
+
+h)  Iluminación:  tradicional o Ray Tracing.
+	Ray tracing
+
+3.  Presentar diagramas (dibujos a mano) o story-boards indicando cómo se imaginan 
+el proyecto en ejecución desplegado en el monitor
+
+Cada uno del grupo tiene que enviar escaneado su dibujo o si es que se puede haberlo dibujado en pc
+
+
+https://www.fotogramas.es/noticias-cine/a515861/monstruos-vs-robots-en-una-tierra-apocaliptica/
+
+https://www.vidaextra.com/accion/estas-todas-novedades-temporada-10-fortnite-robots-gigantes-misiones-para-pase-batalla
